@@ -24,7 +24,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT_ID      0x0001
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    "tanakajunjun"
-#define PRODUCT         "JTNK66L"
+#define PRODUCT         "jtnk66l"
 
 /* key matrix size */
 #define MATRIX_ROWS 10
@@ -82,7 +82,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define ENCODERS_PAD_B { B4 }
 #define ENCODER_RESOLUTION 4
 
-#define ENCODERS_CW_KEY  { { 7, 8 }}
-#define ENCODERS_CCW_KEY  { { 7, 9 }}
+#define ENCODERS_CW_KEY  { { 7, 5 }}
+#define ENCODERS_CCW_KEY  { { 7, 6 }}
 
 
