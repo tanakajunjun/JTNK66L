@@ -37,5 +37,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     {  R10,   R11,   R12,   R13,   R14,   R15, KC_NO, KC_NO }, \
     {  R20,   R21,   R22,   R23,   R24, KC_NO,   R26, KC_NO }, \
     {  R30,   R31,   R32,   R33,   R34,   R35, KC_NO,   R37 }, \
-    {KC_NO,   R41,   R42,   R43, KC_NO,   R45,   R46,   R47 }  \
+    {KC_NO,   R41,   R42,   R43,   R44,   R45,   R46,   R47 }  \
   }
