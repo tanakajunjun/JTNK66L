@@ -7,7 +7,7 @@
 
 enum jtu_custom_keycodes {
 //  JU_2 = SAFE_RANGE,
-  JU_2 = QK_USER, //USER00 Custom(0)
+  JU_2 = QK_KB, //USER00 Custom(0)
   JU_6,//USER01 Custom(1)
   JU_7,//USER02 Custom(2)
   JU_8,//USER03 Custom(3)

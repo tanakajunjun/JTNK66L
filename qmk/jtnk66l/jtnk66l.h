@@ -18,7 +18,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #pragma once
 
 #include "quantum.h"
-#include "encoder_actions.h"
+//#include "encoder_actions.h"
 
 #define LAYOUT( \
     L00, L01, L02, L03, L04, L05, L06, L07, R00, R01, R02, R03, R04, R05,          \
