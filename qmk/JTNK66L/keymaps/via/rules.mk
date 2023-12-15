@@ -3,4 +3,4 @@ LTO_ENABLE = yes
 
 RGB_MATRIX_CUSTOM_USER = yes
 
-SRC += gmem.c
+SRC += gmem.c jtu_custom_keycodes.c
